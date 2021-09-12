@@ -1,4 +1,4 @@
-const stars = () => {
+﻿const stars = () => {
   const count = 200;
   const section = document.querySelector('.section');
   let i = 0;

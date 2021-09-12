@@ -1,4 +1,4 @@
-var YZM = {
+﻿var YZM = {
 	versions:function(){
 		var u = navigator.userAgent, 
 		app = navigator.appVersion;

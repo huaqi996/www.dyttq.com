@@ -1,4 +1,4 @@
-(function () {
+﻿(function () {
 
   var bv = new Bideo();
   var sp = [
