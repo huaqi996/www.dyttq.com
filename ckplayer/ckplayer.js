@@ -1,4 +1,4 @@
-﻿function ckcpt() {
+function ckcpt() {
     var cpt = '';
     cpt += 'definition.swf,2,2,-240,-33,2,1|'; 
     cpt += 'speed.swf,2,2,-330,-33,2,1|'; 

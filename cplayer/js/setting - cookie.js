@@ -1,4 +1,4 @@
-﻿if (diyvodid == 1) {
+if (diyvodid == 1) {
 	var dmid = diyid,
 		dmsid = diysid;
 } else {
